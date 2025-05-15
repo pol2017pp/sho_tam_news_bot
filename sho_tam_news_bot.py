@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
 # 🔐 ВСТАВ СЮДИ ТОКЕН ТВОГО БОТА (З BotFather)
-BOT_TOKEN = "7831859042:AAFG5namCmNBflqlxCUcl_Uu1H2x2xCWWmY"
+BOT_TOKEN = "8173205057:AAEwUMkQB7djHVw-ysntIkD8yQZE09liHTc"
 
 # 🆔 ВСТАВ СЮДИ CHAT_ID твоєї групи або каналу, куди бот має пересилати повідомлення
 MODERATION_CHAT_ID = -1002355606956  # приклад ID каналу
